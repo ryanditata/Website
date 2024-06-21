@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #014900;
+  font-family: 'Archivo Black', sans-serif;
+}
+
+.foto {
+  text-align: center;
+}
+
+.foto1 {
+  text-align: right;
+  margin-top: 100px;
+}
+
+.penjelasan {
+  font-family: 'Archivo Black', sans-serif;
+  font-size: x-large;
+  color: #ffffff;
+  text-align: left;
+  margin-top: -700px;
+  padding: 50px;
+}

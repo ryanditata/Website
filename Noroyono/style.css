@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+.header {
+  background-color: #014900;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.logo img {
+  height: 125px;
+  width: 125px;
+}
+
+.navbar {
+  background-color: rgba(200, 200, 200, 0.1);
+}
+
+.menu {
+  list-style-type: none;
+  font-size: larger;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.menu a {
+  color: #014900;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 1px 30px;
+}
+
+.menu a:hover {
+  background-color: #ffffff;
+  color: rgb(116, 116, 116);
+}
+
+.teks {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  color: #014900;
+}
+
+.konten1 {
+  text-align: center;
+}
+
+.foto1 img {
+  width: 600px;
+  height: 550x;
+}
+
+.foto2 img {
+  width: 1256px;
+  height: auto;
+}
+
+footer {
+  background-color: #ffffff;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  width: auto;
+}
